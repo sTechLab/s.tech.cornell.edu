@@ -39,12 +39,21 @@ gulp.task('copy:assets', function() {
     .pipe(gulp.dest(paths.dist));
 });
 
+// Directly copies without processing items in the static directory to a
+// corresponding directory starting from the root of the site. This is the last
+// step, overwriting prior processing -- so be careful with /static.
+
+gulp.task('copy:static', function() {
+  return gulp.src(paths.src + '/static/**/*')
+    .pipe(gulp.dest(paths.dist));
+});
+
 gulp.task('clean', function() {
   return del(paths.dist + '/**/*');
 });
 
 gulp.task('build', ['clean'], function(callback) {
-  run(['jade', 'webpack', 'copy:assets'], callback);
+  run(['jade', 'webpack', 'copy:assets', 'copy:static'], callback);
 });
 
 gulp.task('watch', ['build'], function() {
