@@ -235,14 +235,14 @@ var people = [
     twitter: 'rossdmcLachlan'
   },
   */
-  {
-    name: 'Nir Grinberg',
-    title: 'PhD Student',
-    link: 'http://www.nirg.net/',
-    image: '/assets/img/people/profile_pic_nir.jpg',
-    email: 'nir@cs.cornell.edu',
-    twitter: 'grinbergnir'
-  },
+  // {
+  //   name: 'Nir Grinberg',
+  //   title: 'PhD Student',
+  //   link: 'http://www.nirg.net/',
+  //   image: '/assets/img/people/profile_pic_nir.jpg',
+  //   email: 'nir@cs.cornell.edu',
+  //   twitter: 'grinbergnir'
+  // },
   {
     name: 'Max Grusky',
     title: 'PhD Student',
@@ -265,14 +265,14 @@ var people = [
     email: 'xiao@jacobs.cornell.edu',
     twitter: 'infoxiao'
   },
-  {
-    name: 'Emily Sun',
-    title: 'PhD Student',
-    link: 'http://emilywsun.com',
-    image: '/assets/img/people/profile_pic_emily.jpg',
-    email: 'emily@jacobs.cornell.edu',
-    twitter: 'emilywsun'
-  }
+  // {
+  //   name: 'Emily Sun',
+  //   title: 'PhD Student',
+  //   link: 'http://emilywsun.com',
+  //   image: '/assets/img/people/profile_pic_emily.jpg',
+  //   email: 'emily@jacobs.cornell.edu',
+  //   twitter: 'emilywsun'
+  // }
 ];
 
 var news = [
