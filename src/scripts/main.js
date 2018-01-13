@@ -76,10 +76,9 @@ $(() => {
   /* auto-open #firstlink on page load */
   $("#firstlink").venobox().trigger('click');
 
-
   // Initialize Map
   var initializeMap = () => {
-    var cornellTechLatLng = {lat: 40.740918, lng: -74.0043697};
+    var cornellTechLatLng = {lat: 40.756475, lng: -73.955865};
     var mapCanvas = document.getElementById('map');
     var mapOptions = {
       center: cornellTechLatLng,
