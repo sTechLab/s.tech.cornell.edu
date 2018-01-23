@@ -218,31 +218,26 @@ var people = [
     email: 'mor@jacobs.cornell.edu',
     twitter: 'informor'
   },
-/* 
   {
-    name: 'Trevor Pinch',
-    title: 'Visiting Professor',
-    link: 'http://sts.cornell.edu/people/tjp2.cfm',
-    image: '/assets/img/people/trevor.gif',
-    email: 'tjp2@cornell.edu',
+    name: 'Benedetta Piantella',
+    title: 'Technologist in Residence',
+    image: '/assets/img/people/benedetta.jpg',
+    email: 'bpp23@cornell.edu',
+    twitter: 'benedetoula'
   },
-/*  {
-    name: 'Ross McLachlan',
-    title: 'Post-doc',
-    link: 'http://www.rossmclachlan.co.uk/',
-    image: '/assets/img/people/profile_pic_ross.jpg',
-    email: 'rdm257@cornell.edu',
-    twitter: 'rossdmcLachlan'
+  {
+    name: 'Doron Tal',
+    title: 'Sr. Research Engineer',
+    image: '/assets/img/people/doron.jpg',
+    email: 'doron.tal@cornell.edu'
   },
-  */
-  // {
-  //   name: 'Nir Grinberg',
-  //   title: 'PhD Student',
-  //   link: 'http://www.nirg.net/',
-  //   image: '/assets/img/people/profile_pic_nir.jpg',
-  //   email: 'nir@cs.cornell.edu',
-  //   twitter: 'grinbergnir'
-  // },
+  {
+    name: 'Matthew Law',
+    title: 'PhD Student',
+    link:  'http://mattlaw.io',
+    image: '/assets/img/people/matt.jpg',
+    email:  'mvl24@cornell.edu'
+  },
   {
     name: 'Max Grusky',
     title: 'PhD Student',
@@ -250,13 +245,6 @@ var people = [
     image: '/assets/img/people/max.jpg',
     email: 'grusky@cs.cornell.edu',
   },  
-    {
-    name: 'Matthew Law',
-    title: 'PhD Student',
-    link:  'http://mattlaw.io',
-    image: '/assets/img/people/matt.jpg',
-    email:  'mvl24@cornell.edu'
-  },
   {
     name: 'Xiao Ma',
     title: 'PhD Student',
@@ -265,14 +253,12 @@ var people = [
     email: 'xiao@jacobs.cornell.edu',
     twitter: 'infoxiao'
   },
-  // {
-  //   name: 'Emily Sun',
-  //   title: 'PhD Student',
-  //   link: 'http://emilywsun.com',
-  //   image: '/assets/img/people/profile_pic_emily.jpg',
-  //   email: 'emily@jacobs.cornell.edu',
-  //   twitter: 'emilywsun'
-  // }
+  {
+    name: 'Uzi Smadja',
+    title: 'MSc Student',
+    image: '/assets/img/people/uzi.jpg',
+    email: 'uzi.smadja@gmail.com',
+  },
 ];
 
 var news = [
