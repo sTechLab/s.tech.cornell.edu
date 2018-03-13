@@ -2,6 +2,26 @@ var marked = require('marked');
 
 var publications = [
   { 
+  mobileInfo: 'Xiao Ma, Megan Cackett, Leslie Park, Eric Chien, and Mor Naaman. Web-Based VR Experiments Powered by the Crowd. In Proceedings, International World Wide Web Conference. (WWW 2018), April 2018, Perth, Australia',
+    title: 'Web-Based VR Experiments Powered by the Crowd',
+    author: 'Xiao Ma, Megan Cackett, Leslie Park, Eric Chien, Mor Naaman',
+    conference: 'WWW 2018',
+    type: 'Paper',
+    image: '/assets/img/publication/crowdvr.jpeg',
+    links: [['PDF', 'https://arxiv.org/pdf/1802.08345.pdf']],
+    abstract: 'We build on the increasing availability of Virtual Reality (VR) devices and Web technologies to conduct behavioral experiments in VR using crowdsourcing techniques. A new recruiting and validation method allows us to create a panel of eligible experiment participants recruited from Amazon Mechanical Turk. Using this panel, we ran three different crowdsourced VR experiments, each reproducing one of three VR illusions: place illusion, embodiment illusion, and plausibility illusion. Our experience and worker feedback on these experiments show that conducting Web-based VR experiments using crowdsourcing is already feasible, though some challenges---including scale---remain. Such crowdsourced VR experiments on the Web have the potential to finally support replicable VR experiments with diverse populations at a low cost.'
+  },
+  // { 
+  // mobileInfo: 'Emily Sun and Mor Naaman. A Multi-site Investigation of Community Awareness Through Passive Location Sharing. In Proceedings, ACM International Conference on Human Factors in Computing Systems. (CHI 2018), April 2018, Montreal, Canada',
+  //   title: 'A Multi-site Investigation of Community Awareness Through Passive Location Sharing',
+  //   author: 'Emily Sun and Mor Naaman',
+  //   conference: 'CHI 2018',
+  //   type: 'Paper',
+  //   image: '',
+  //   links: [['PDF', '']],
+  //   abstract: 'We aim to understand if and how passive location sharing might be socially beneficial for communities. We conducted a deployment of MoveMeant (see Sun et al. CHI 2017) and 45 interviews with users of the system and community leaders across three different communities. We discuss the issues that communities face and the potential positive and negative repercussions of surfacing passive location information.'
+  // },
+  { 
   mobileInfo: 'Xiao Ma, Trishala Neeraj, and Mor Naaman. A Computational Approach to Perceived Trustworthiness of Airbnb Host Profiles. In Proceedings, International AAAI Conference on Web and Social Media. (ICWSM 2017), May 2017, Montreal, Canada',
     title: 'A Computational Approach to Perceived Trustworthiness of Airbnb Host Profiles',
     author: 'Xiao Ma, Trishala Neeraj, Mor Naaman',
@@ -244,6 +264,12 @@ var people = [
     link: 'https://www.cs.cornell.edu/~grusky/',
     image: '/assets/img/people/max.jpg',
     email: 'grusky@cs.cornell.edu',
+  },
+  {
+    name: 'Maurice Jakesch',
+    title: 'PhD Student',
+    image: '/assets/img/people/maurice.jpg',
+    email: 'mpj32@cornell.edu',
   },  
   {
     name: 'Xiao Ma',
