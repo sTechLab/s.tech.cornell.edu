@@ -2,7 +2,17 @@ var marked = require('marked');
 
 var publications = [
   { 
-  mobileInfo: 'Xiao Ma, Megan Cackett, Leslie Park, Eric Chien, and Mor Naaman. Web-Based VR Experiments Powered by the Crowd. In Proceedings, International World Wide Web Conference. (WWW 2018), April 2018, Perth, Australia',
+    mobileInfo: 'Matthew V. Law, Mor Naaman, and Nicola Dell. ShareBox: Designing A Physical System to Support Resource Exchange in Local Communities. In Proceedings, Designing Interactive Systems. (DIS 2018), June 2018, Hong Kong.',
+    title: 'ShareBox: Designing A Physical System to Support Resource Exchange in Local Communities.',
+    author: 'Matthew V. Law, Mor Naaman, and Nicola Dell',
+    conference: 'DIS 2018',
+    type: 'Paper',
+    image: '/assets/img/publication/box.jpg',
+    links: [['PDF', '/assets/papers/sharebox-local-communities.pdf']],
+    abstract: 'ShareBox is a technology probe that facilitates local borrowing and lending of physical items using a chatbot and smart lockbox. We describe the design of ShareBox and evaluate a set of design guidelines, including the physical-virtual nature of the system, anonymity and asynchronous exchange, through three short deployments. Our findings, based on semi-structured interviews with community members, highlight the potential and remaining challenges in our design.'
+  },
+  { 
+    mobileInfo: 'Xiao Ma, Megan Cackett, Leslie Park, Eric Chien, and Mor Naaman. Web-Based VR Experiments Powered by the Crowd. In Proceedings, International World Wide Web Conference. (WWW 2018), April 2018, Perth, Australia',
     title: 'Web-Based VR Experiments Powered by the Crowd',
     author: 'Xiao Ma, Megan Cackett, Leslie Park, Eric Chien, Mor Naaman',
     conference: 'WWW 2018',
@@ -22,7 +32,7 @@ var publications = [
     abstract: 'We aim to understand if and how passive location sharing might be socially beneficial for communities. We conducted a deployment of MoveMeant (see Sun et al. CHI 2017) and 45 interviews with users of the system and community leaders across three different communities. We discuss the issues that communities face and the potential positive and negative repercussions of surfacing passive location information.'
   },
   { 
-  mobileInfo: 'Xiao Ma, Trishala Neeraj, and Mor Naaman. A Computational Approach to Perceived Trustworthiness of Airbnb Host Profiles. In Proceedings, International AAAI Conference on Web and Social Media. (ICWSM 2017), May 2017, Montreal, Canada',
+    mobileInfo: 'Xiao Ma, Trishala Neeraj, and Mor Naaman. A Computational Approach to Perceived Trustworthiness of Airbnb Host Profiles. In Proceedings, International AAAI Conference on Web and Social Media. (ICWSM 2017), May 2017, Montreal, Canada',
     title: 'A Computational Approach to Perceived Trustworthiness of Airbnb Host Profiles',
     author: 'Xiao Ma, Trishala Neeraj, Mor Naaman',
     conference: 'ICWSM 2017',
@@ -33,7 +43,7 @@ var publications = [
     abstract: 'Building on our previous work (see below by Ma et al. CSCW 2017), we developed a novel computational framework to predict the perceived trustworthiness of host profile texts in the context of online lodging marketplaces. We developed a dataset of 4,180 Airbnb host profiles annotated with perceived trustworthiness, and also provide insights into the linguistic factors that contribute to higher and lower perceived trustworthiness for profiles of different lengths.'
   },
   { 
-  mobileInfo: 'Max Grusky, Jeiran Jahani, Josh Schwartz, Dan Valente, Yoav Artzi, and Mor Naaman. Modeling Sub-Document Attention Using Viewport Time. In Proceedings, ACM International Conference on Human Factors in Computing Systems. (CHI 2017), May 2017, Denver, USA',
+    mobileInfo: 'Max Grusky, Jeiran Jahani, Josh Schwartz, Dan Valente, Yoav Artzi, and Mor Naaman. Modeling Sub-Document Attention Using Viewport Time. In Proceedings, ACM International Conference on Human Factors in Computing Systems. (CHI 2017), May 2017, Denver, USA',
     title: 'Modeling Sub-Document Attention Using Viewport Time',
     author: 'Max Grusky, Jeiran Jahani, Josh Schwartz, Dan Valente, Yoav Artzi, and Mor Naaman',
     conference: 'CHI 2017',
@@ -73,7 +83,7 @@ var publications = [
     abstract: 'In this study, we quantitatively examined the factors contributing to feedback expectations and find that fulfilling expectations is linked to connectedness, an important ingredient for well-being. By conducting two large surveys on Facebook.com we find that people report higher expectations on posts they evaluated as more important, and to a lesser extent more personal. Expectations varied across people and friendships, most notably by recency of communication, geographical proximity, and the type of relationship (e.g. family, co-worker). The study provides a conceptual framework for thinking about feedback expectations in social media settings and a computational model for utilizing expectations in the design of social systems.'
   },
  { 
-  mobileInfo: 'Xiao Ma, Jeff Hancock, Kenneth Lim Mingjie, Mor Naaman. Self-Disclosure and Perceived Trustworthiness of Airbnb Host Profiles. In Proceedings, ACM International Conference on Computer-Supported Cooperative Work. (CSCW 2017), February 2017, Portland, USA',
+    mobileInfo: 'Xiao Ma, Jeff Hancock, Kenneth Lim Mingjie, Mor Naaman. Self-Disclosure and Perceived Trustworthiness of Airbnb Host Profiles. In Proceedings, ACM International Conference on Computer-Supported Cooperative Work. (CSCW 2017), February 2017, Portland, USA',
     title: 'Self-Disclosure and Perceived Trustworthiness of Airbnb Host Profiles',
     author: 'Xiao Ma, Jeff Hancock, Kenneth Lim Mingjie, Mor Naaman',
     conference: 'CSCW 2017',
@@ -85,7 +95,7 @@ var publications = [
     abstract: 'We conducted the first large-scale mixed-method analysis of Airbnb host profiles, by categorizing the types of information hosts share in their profiles, and assessing how trustworthy their profiles are perceived to be. We found that hosts do not always follow the prompts by Airbnb website, but instead disclose information that reduces the uncertainty of anticipated future interaction. The language of hospitality, i.e., making direct promises to take care of guests, was found to be the most effective in establishing perceived trustworthiness.'
   },
  { 
-  mobileInfo: 'Emily Sun, Ross McLachlan, Mor Naaman. TAMIES: A Study and Model of Adoption in P2P Resource Sharing and Indirect Exchange Systems. In Proceedings, ACM International Conference on Computer-Supported Cooperative Work. (CSCW 2017), February 2017, Portland, USA',
+    mobileInfo: 'Emily Sun, Ross McLachlan, Mor Naaman. TAMIES: A Study and Model of Adoption in P2P Resource Sharing and Indirect Exchange Systems. In Proceedings, ACM International Conference on Computer-Supported Cooperative Work. (CSCW 2017), February 2017, Portland, USA',
     title: 'TAMIES: A Study and Model of Adoption in P2P Resource Sharing and Indirect Exchange Systems',
     author: 'Emily Sun*, Ross McLachlan*, Mor Naaman (*authors contributed equally)',
     conference: 'CSCW 2017',
@@ -95,7 +105,7 @@ var publications = [
     abstract: 'Peer-to-peer indirect exchange services, such as Peerby and NeighborGoods, do not seem to have been as widely adopted as direct exchange systems, such as Uber and AirBnb. Building upon the results of interviews with 37 residents of New York City, a survey with 195 respondents, previous technology acceptance models, critical mass theory, and prior research on peer economies, we propose a technology acceptance model for indirect exchange systems that includes generalized trust and ease of coordination.'
   },
  {  
-  mobileInfo: 'Xiao Ma, Emily Sun, Mor Naaman. What Happens in happn: The Warranting Power of Location History in Online Dating. In Proceedings, ACM International Conference on Computer-Supported Cooperative Work. (CSCW 2017), February 2017, Portland, USA',
+    mobileInfo: 'Xiao Ma, Emily Sun, Mor Naaman. What Happens in happn: The Warranting Power of Location History in Online Dating. In Proceedings, ACM International Conference on Computer-Supported Cooperative Work. (CSCW 2017), February 2017, Portland, USA',
     title: 'What Happens in happn: The Warranting Power of Location History in Online Dating',
     author: 'Xiao Ma, Emily Sun, Mor Naaman',
     conference: 'CSCW 2017',
