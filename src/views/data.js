@@ -59,7 +59,10 @@ var publications = [
     conference: 'CHI 2017',
     type: 'Note',
     image: '/assets/img/publication/movemeant.png',
-    links: [['PDF', '/assets/papers/movemeant-note-chi2017.pdf']],
+    links: [
+      ['PDF', '/assets/papers/movemeant-note-chi2017.pdf'],
+      ['Reviews', '/assets/reviews/chi-2017-movemeant.txt'],
+    ],
     abstract: 'We describe the design and implementation of MoveMeant, a system aimed to increase local community awareness through shared location traces. We report findings from interviews with residents in the Bronx, New York City who participated in a deployment of MoveMeant over a 6-week period.'
   },
  { 
@@ -79,7 +82,10 @@ var publications = [
     conference: 'CSCW 2017',
     type: 'Paper',
     image: '/assets/img/publication/feedback_exp_thumb.jpg',
-    links: [['PDF', 'http://www.nirg.net/papers/feedback_exp.pdf']],
+    links: [
+      ['PDF', 'http://www.nirg.net/papers/feedback_exp.pdf'],
+      ['Reviews', '/assets/reviews/cscw-2017-facebook.txt']
+    ],
     abstract: 'In this study, we quantitatively examined the factors contributing to feedback expectations and find that fulfilling expectations is linked to connectedness, an important ingredient for well-being. By conducting two large surveys on Facebook.com we find that people report higher expectations on posts they evaluated as more important, and to a lesser extent more personal. Expectations varied across people and friendships, most notably by recency of communication, geographical proximity, and the type of relationship (e.g. family, co-worker). The study provides a conceptual framework for thinking about feedback expectations in social media settings and a computational model for utilizing expectations in the design of social systems.'
   },
  { 
@@ -90,8 +96,11 @@ var publications = [
     isAward: 'Best Paper Honorable Mention',
     type: 'Paper',
     image: '/assets/img/publication/airbnb.png',
-    links: [['Dataset', 'https://github.com/sTechLab/AirbnbHosts', 'arrow-down'], 
-            ['PDF', '/assets/papers/ma2017airbnb.pdf']],
+    links: [
+      ['Dataset', 'https://github.com/sTechLab/AirbnbHosts', 'arrow-down'], 
+      ['PDF', '/assets/papers/ma2017airbnb.pdf'],
+      ['Reviews', '/assets/reviews/cscw-2017-airbnb.txt'],
+    ],
     abstract: 'We conducted the first large-scale mixed-method analysis of Airbnb host profiles, by categorizing the types of information hosts share in their profiles, and assessing how trustworthy their profiles are perceived to be. We found that hosts do not always follow the prompts by Airbnb website, but instead disclose information that reduces the uncertainty of anticipated future interaction. The language of hospitality, i.e., making direct promises to take care of guests, was found to be the most effective in establishing perceived trustworthiness.'
   },
  { 
@@ -101,7 +110,10 @@ var publications = [
     conference: 'CSCW 2017',
     type: 'Paper',
     image: '/assets/img/publication/P2PTAM_CR.jpg',
-    links: [['PDF', '/assets/papers/tamies.pdf']],
+    links: [
+      ['PDF', '/assets/papers/tamies.pdf'],
+      ['Reviews', '/assets/reviews/cscw-2017-p2p.txt']
+    ],
     abstract: 'Peer-to-peer indirect exchange services, such as Peerby and NeighborGoods, do not seem to have been as widely adopted as direct exchange systems, such as Uber and AirBnb. Building upon the results of interviews with 37 residents of New York City, a survey with 195 respondents, previous technology acceptance models, critical mass theory, and prior research on peer economies, we propose a technology acceptance model for indirect exchange systems that includes generalized trust and ease of coordination.'
   },
  {  

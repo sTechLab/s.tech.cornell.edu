@@ -1,0 +1,19 @@
+MoveMeant: Anonymously Building Community Through Shared Location Histories
+
+This paper presented MoveMeant, a mobile app designed increase awareness of a local community through passively collected location data and documented its effectiveness with an exploratory deployment for 6 weeks with 18 users.
+
+Both R2 and R3 agreed that the work experimented with a new concept of anonymously sharing location. I also agree that this feature would help  users to discover new types of places in a local community that they would not have considered or not associated with self-presentation (e.g.  supermarkets), as R3 stated. For example, what are the popular places that our local community (say apartment complex) visited.
+
+While the reviewers were a bit lukewarm about this work, given that the work is a note submission, I do not think that the authors could include every detail. 
+
+Some issues raised by reviewers in the first round of review (before the rebuttal) include:
+
+(1) The benefits of MoveMeant are not clear: R2 and R4 asked what are the additional values of MoveMeant as opposed to many existing location sharing/awareness systems (e.g., proactive check-in services like Foursquare, and hyperlocal social networking services like NextDoor). After the rebuttal, I went over the Journeys & Notes work, and I found that the value of MoveMent is clear enough.
+
+(2) Evaluation is quite limited: There is lack of evidence about whether MoveMeant actually helped the participants to explore new places and create new social connections (R2). The anonymity feature was not thoroughly examined, despite its importance in MoveMeant (R4). There should be more detailed usage characteristics such as usage patterns, place types (vs. disclosure), and temporal patterns (R3).
+
+(3) R3 mentioned privacy concerns: attackers can easily find out a person's visited places even with k-anonymity.
+
+In the PC meeting, one PC member commented that the term third places should be properly used in the final version of this paper. Wikipedia search shows the following: "In community building, the third place (or third space) is the social surroundings separate from the two usual social environments of home ("first place") and the workplace ("second place"). Examples of third places would be environments such as cafes, clubs or parks.”
+
+Again, the work is quite interesting, and I hope to see further publications in that direction. Congrats.

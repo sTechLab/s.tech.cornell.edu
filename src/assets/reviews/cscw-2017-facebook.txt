@@ -1,0 +1,5 @@
+Understanding Feedback Expectations on Facebook
+
+Coordinator's Final Report to Authors (meta-review)
+
+I thank the authors for their revised manuscript and detailed responses to the reviewers' comments. Because the revised reviews for the manuscript were mostly positive, the paper was discussed during the program committee meeting and recommended for acceptance. However, R1 and R3 still expressed some persuasive concerns about the depth or detail of the discussion in terms of translating methods, addressing discrepancies in the treatment of various theories, including better justifications for features, identifying implications for designing systems and developing theory, and applying these findings to systems beyond Facebook. 

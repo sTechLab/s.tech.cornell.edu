@@ -1,0 +1,5 @@
+Self-Disclosure and Perceived Trustworthiness of Airbnb Host Profiles
+
+This work presents an thoughtful analysis of trust in an online marketplace. The reviewers have provided a set of incredibly insightful reviews and suggestions. Overall this paper is a good contribution to the conference. The authors have addressed most of the issues raised in the first round. 
+
+However, there is one issue in particular that was deemed important to resolve before the final version of the paper. The issue is the dismissal of the data from 3 cities. The authors explained that they removed them because they are  preparing the dataset for a computational large scale analysis and cultural differences between cities, not yet done in this paper." However, the reviewers do not feel that this is a satisfactory answer. This issue was discussed at the PC meeting and the agreement was that the paper will need to make sure to add a few sentences on explaining in detail and in a more nuanced way the reasons for the removal of these data. I would suggest to add them up front as part of the limitations. Once you address this, the paper will be all set for publication. 

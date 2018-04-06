@@ -1,0 +1,9 @@
+A Study and Model of Adoption in P2P Resource Sharing
+
+I thank the authors for their revised manuscript and detailed responses to the reviewers' comments. The revised reviews for the manuscript are unanimously positive and the paper was recommended for acceptance without further need for discussion at the program committee meeting. I congratulate the authors on their accomplishment and strongly encourage them to continue research using these methods, in this domain, and submitting their findings to the CSCW community. For completeness, here are some of the concerns that were raised in the first round of review, before the revised manuscript was submitted:
+
+  * Need to improve clarity linking theory and methods together including in the discussion section. R2 notes the submission provides a literate review of relevant mechanisms from theory,  but "[doesn't] advance specific research questions that would be addressed by the chosen method(s)". R2 also notes that the central concept of "trust" needs a better introduction and discussion. R3 similarly notes the need for greater clarity in the terminology from theories to constructs, especially around the "sharing" economy terminology. 
+
+  * Expand methodological description. R2 and R3 both note that more detail is needed to evaluate the recruitment and evaluation of study participants across three different platforms as well as coding methods to extract themes from the interviews.
+
+  * Broaden the scope of the contribution. R3 notes that the findings are narrowly framed to P2P resource sharing sites rather than more general contexts and processes CSCW cares about such as peer production.
