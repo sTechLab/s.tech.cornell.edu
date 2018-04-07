@@ -28,7 +28,10 @@ var publications = [
     conference: 'CHI 2018',
     type: 'Paper',
     image: '/assets/img/publication/location-sharing-sun.png',
-    links: [['PDF', '/assets/papers/location-sharing-sun.pdf']],
+    links: [
+      ['PDF', '/assets/papers/location-sharing-sun.pdf'],
+      ['Reviews', '/assets/reviews/chi-2018-location.txt'],
+    ],
     abstract: 'We aim to understand if and how passive location sharing might be socially beneficial for communities. We conducted a deployment of MoveMeant (see Sun et al. CHI 2017) and 45 interviews with users of the system and community leaders across three different communities. We discuss the issues that communities face and the potential positive and negative repercussions of surfacing passive location information.'
   },
   { 
@@ -49,7 +52,10 @@ var publications = [
     conference: 'CHI 2017',
     type: 'Note',
     image: '/assets/img/publication/viewport-time-chi2017.png',
-    links: [['PDF', '/assets/papers/viewport-time-chi2017.pdf']],
+    links: [
+      ['PDF', '/assets/papers/viewport-time-chi2017.pdf'],
+      ['Reviews', '/assets/reviews/chi-2017-viewport.txt'],
+    ],
     abstract: 'Website measures of engagement captured from millions of users, such as in-page scrolling and viewport position, can provide deeper understanding of attention than possible with simpler measures, such as dwell time. Using data from 1.2M news reading sessions, we examine and evaluate three increasingly sophisticated models of sub-document attention computed from viewport time, the time a page component is visible on the user display. Our approach supports refined large-scale measurement of user engagement at a level previously available only from lab-based eye-tracking studies.'
   },
  { 
@@ -72,7 +78,10 @@ var publications = [
     conference: 'CHI 2017',
     type: 'Paper',
     image: '/assets/img/publication/secret-qual.png',
-    links: [['PDF', '/assets/papers/secret-qual.pdf']],
+    links: [
+      ['PDF', '/assets/papers/secret-qual.pdf'],
+      ['Reviews', '/assets/reviews/chi-2017-anonymity.txt'],
+    ],
     abstract: 'We interviewed users of two anonymous social applications, Secret and Mimi, both of which allowed people to share information anonymously with friends. Our findings show that although users feel more comfortable sharing information on these “tie-based” anonymous applications, they are still concerned about being identified, and at the same time, engage in sometimes elaborate attempts to uncover the identities of others.'
   },
 { 
@@ -123,7 +132,10 @@ var publications = [
     conference: 'CSCW 2017',
     type: 'Paper',
     image: '/assets/img/publication/happn_website.jpg',
-    links: [['PDF', '/assets/papers/making-sense-location_CR.pdf']],
+    links: [
+      ['PDF', '/assets/papers/making-sense-location_CR.pdf'],
+      ['Reviews', '/assets/reviews/cscw-2017-happn.txt'],
+    ],
     abstract: 'We interviewed users of a novel mobile dating application, happn, which shows users the number of times they crossed path with potential matches. We show that users assigned significant meaning to the minimal cues available from location history information. At the same time, users have concerns about security and recognition by known others as a result of sharing personal location history.'
   },
 

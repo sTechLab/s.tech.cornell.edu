@@ -1,0 +1,12 @@
+What Happens in happn: The Warranting Power of Location History in Online Dating
+
+This paper analyzes a dating app, "happn", to understand how users interpret and react to a novel feature of the app that shares "crossed paths," locations where two users have both been.  The authors use in-depth surveys with 15 users to understand perceptions around this feature, using the framework of Uncertainty Reduction Theory to interpret the results.
+
+After the first round, all of the reviewers found this paper well-written, enjoyable to read, and interesting research. Reviewer 1 felt the paper could be improved with a separate section on limitations of the research. Reviewer 2 suggests connecting the paper to research on ice-breaking, as the motivations and experiences might be similar.  Reviewer 3 felt that the paper would be improved with some additional details about happn, such as the usual interaction flow.  R3 also had suggestions for improving the background section, mostly by removing qualifying language. In general, this paper was well-liked by the reviewers, and very few changes were requested for the revision. These requests include:
+
+   - Include a section on limitations & future work, which might include implications for designers of dating / SNS
+   - Break up the findings section to avoid overly-long paragraphs
+   - Strengthen some of the statements in the background (See R3's review)
+   - Add details about the Happn app, such as the typical UI experience.
+
+After the revised submission, all of the issues raised by the reviewers were sufficiently addressed, and the paper is even stronger. In particular, Reviewer 3 commented that the changes made the paper much stronger, and I agree.

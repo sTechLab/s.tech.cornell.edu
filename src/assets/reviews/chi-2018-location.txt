@@ -1,0 +1,9 @@
+A Multi-site Investigation of Community Awareness Through Passive Location Sharing 
+
+This submission reports on findings from a deployment of MoveMeant, a location awareness app. Results from 45 interviews with users and community leaders suggest that the communities face issues with lack of awareness, cohesion, and identity, with implications for designing and using community systems.
+
+Even before the rebuttal, reviewers were overall positive on this submission, noting that the topic is interesting and the work is well-executed. All reviewers identified literature that felt as though it was missing from this submission. Of particular note, R1 identifies that this work should engage with the awareness literature in CSCW and to communicate to the reader how this submission (which talks a lot about awareness) fits into that literature. R1, R2 and R3 all offer specific references that I would encourage the authors to consider in the context of their work.
+
+In addition to considering this work in the context of the literature  mentioned above, the other main questions for the authors to address are highlighted in R1's review. Specifically, the submission focuses on "passive" location sharing, but the submission does not do enough to help the reader understand why these findings are really about passive location sharing, rather than location sharing in general. R1 would also like the authors to reiterate/clarify the main takeaways from this work and the main outcomes of the study.
+
+After the rebuttal, reviewers were positive on this submission and the contribution that it makes to the CHI community, and are in agreement that this submission should be accepted.

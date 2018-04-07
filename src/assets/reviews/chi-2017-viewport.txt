@@ -1,0 +1,11 @@
+Modeling Sub-Document Attention Using Viewport Time
+
+The reviewers generally liked this note. Although there are limitations to the work, which should be addressed by the authors in the camera ready, it was generally felt by the PC that the note was worth accepting. The result may end up not being robust, but would likely provide an interesting point of comparison for future work. The authors should respond to reviewer feedback in the camera-ready based on their rebuttal and properly acknowledge limitations.
+
+Here are some of the concerns reviewers raised before the rebuttal.
+
+1) Three reviewers were concerned about an "over claim" (to different degrees) given what was actually done in the experiment. 
+
+2) The general question of applicability of the technique: Given the (lower) accuracy of the results, reviewers would like to understand more where one might apply this as a method. It may be that it is reasonable for aggregate statistics about a page, but per-user adaptation is unlikely to work.
+
+3) I do agree with the reviewer that points out that the aggregation needs to be a little bit better justified. It feels like it's hiding variance that is important to understand in order to assess whether the technique could be used in practice.
