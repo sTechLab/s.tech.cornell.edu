@@ -2,6 +2,19 @@ var marked = require('marked');
 
 var publications = [
   { 
+    mobileInfo: 'Max Grusky, Mor Naaman, Yoav Artzi NEWSROOM: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies In Proceedings, North American Chapter of the Association for Computational Linguistics: Human Language Technologies. (NAACL 2018), June 2018, New Orleans, Louisiana.',
+    title: 'NEWSROOM: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies',
+    author: 'Max Grusky, Mor Naaman, Yoav Artzi',
+    conference: 'NAACL 2018',
+    type: 'Paper',
+    image: '/assets/img/publication/newsroom.png',
+    links: [
+        ['PDF', '/assets/papers/newsroom.pdf'],
+        ['Website', 'https://summari.es']
+    ],
+    abstract: 'We present NEWSROOM, a summarization dataset of 1.3 million articles and summaries written by authors and editors in newsrooms of 38 major news publications. Extracted from search and social media metadata between 1998 and 2017, these high-quality summaries demonstrate high diversity of summarization styles. In particular, the summaries combine abstractive and extractive strategies, borrowing words and phrases from articles at varying rates. We analyze the extraction strategies used in NEWSROOM summaries against other datasets to quantify the diversity and difficulty of our new data, and train existing methods on the data to evaluate its utility and challenges. The dataset is available online at summari.es'
+  },
+  { 
     mobileInfo: 'Matthew V. Law, Mor Naaman, and Nicola Dell. ShareBox: Designing A Physical System to Support Resource Exchange in Local Communities. In Proceedings, Designing Interactive Systems. (DIS 2018), June 2018, Hong Kong.',
     title: 'ShareBox: Designing A Physical System to Support Resource Exchange in Local Communities.',
     author: 'Matthew V. Law, Mor Naaman, and Nicola Dell',
