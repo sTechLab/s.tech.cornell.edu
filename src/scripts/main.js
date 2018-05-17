@@ -2,6 +2,22 @@ import 'normalize-css';
 import '../styles/index.styl';
 
 $(() => {
+
+  // Change video by time of year.
+  const month = (new Date()).getMonth();
+
+  if (month < 4 || month > 9) {
+
+    // Winter
+    $(".fullscreen-bg-video.summer").remove();
+
+  } else {
+
+    //Summer
+    $(".fullscreen-bg-video.winter").remove();
+
+  }
+
   const windowHeight = $(window).height();
   const windowWidth = $(window).width();
 

@@ -37,10 +37,14 @@ html
 
   body
     .fullscreen-bg
-      video.fullscreen-bg-video(
+      video.fullscreen-bg-video.summer(
         loop='', muted='', autoplay='', preload='', 
-        poster='./assets/bg_video_fallback.jpg', 
-        src='./assets/bg_video.webm')
+        poster='./assets/bg_summer_fallback.jpg', 
+        src='./assets/bg_summer.webm')
+      video.fullscreen-bg-video.winter(
+        loop='', muted='', autoplay='', preload='', 
+        poster='./assets/bg_winter_fallback.jpg', 
+        src='./assets/bg_winter.webm')
 
     .slide#intro
       .header
